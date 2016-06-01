@@ -1,0 +1,14 @@
+layout_spectrum: 0.37195256096310914
+typography_spectrum: 0.29748535878024995
+color:
+  brandStrength: 0.7632239812519401
+  lightness: 0.8322731852531433
+  saturation: 0.8601408246904612
+  rhythmicContrast: 0.5160192367620766
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Belong
